@@ -1,0 +1,5 @@
+discord.py[voice]
+google-cloud-speech
+google-cloud-texttospeech
+openai
+python-dotenv
